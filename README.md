@@ -13,8 +13,4 @@ A C program that manages student records stored in a file (`student.dat`) and fi
 - **Compiler:** GCC / OnlineGDB / MSVC
 - **Concepts Used:** File Handling (`fopen`, `fprintf`, `fscanf`, `rewind`), String Manipulation (`toupper`, `strcmp`), Pointers, Dynamic I/O.
 
-## How to Run
 
-1. **Clone or Download the Repository:**
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
